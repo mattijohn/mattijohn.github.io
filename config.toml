@@ -1,0 +1,4 @@
+baseURL = "https://mattijohn.github.io/"
+languageCode = "en-gb"
+title = "Matti's Blog"
+theme = "PaperMod"
